@@ -1,0 +1,15 @@
+{
+  "name": "guidedlab318",
+  "version": "1.0.0",
+  "description": "guidedLab318 intro to node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NaomiM",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
